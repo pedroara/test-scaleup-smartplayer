@@ -13,7 +13,7 @@ function App() {
 
   return (
     <iframe
-      src="https://player.scaleup.com.br/embed/48c6ba5ea33f2f854ffda92294c5cfd18539f451"
+      src="https://player.scaleup.com.br/embed/48c6ba5ea33f2f854ffda92294c5cfd18539f451?events=controlsdisabled,controlsenabled,dispose,durationchange,ended,enterFullWindow,enterpictureinpicture,error,exitFullWindow,firstplay,fullscreenchange,leavepictureinpicture,loadedmetadata,loadstart,pause,play,playerreset,playerresize,playing,posterchange,progress,ratechange,ready,resize,seeked,seeking,textdata,timeupdate,useractive,userinactive,volumechange,waiting"
       title="Teste"
       allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen=""
